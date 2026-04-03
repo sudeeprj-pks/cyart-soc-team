@@ -336,5 +336,4 @@ It highlights the importance of proactive monitoring, structured response, and a
 
  Author
 SUDEEP R J | SOC ANALYST TRAINEE
-Sudeep R J 
-SOC Analyst Trainee
+
